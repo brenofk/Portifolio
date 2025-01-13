@@ -6,7 +6,7 @@
 
 # Ferramentas utilizadas no desenvolvimento
 
-## <span style="background-color: gray; color: white; padding: 5px;">Funcionalidade 1: </span> ○ Botões que permitem alternar entre a página inicial e a seção "Sobre Mim".
+## **Funcionalidade 1:** ○ Botões que permitem alternar entre a página inicial e a seção "Sobre Mim".
 ## ○ Estilização com CSS para criar um layout visualmente agradável e responsivo.
 ## ○ Organização clara e lógica das informações usando HTML.
 ## ○ Efeitos visuais ao passar o mouse (hover) nos botões ou links.
